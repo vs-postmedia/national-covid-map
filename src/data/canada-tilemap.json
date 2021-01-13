@@ -1,0 +1,13 @@
+[{"y":5,"x":1.5,"name":"Yukon","abbr":"Yuk.","code":"YT"},
+{"y":5,"x":2.5,"name":"Northwest Territories Territories","abbr":"N.W.T.","code":"NT"},
+{"y":5,"x":3.5,"name":"Nunavut","abbr":"Nun.","code":"NU"},
+{"y":4,"x":1,"name":"British Columbia","abbr":"B.C.","code":"BC"},
+{"y":4,"x":2,"name":"Alberta","abbr":"Alta.","code":"AB"},
+{"y":4,"x":3,"name":"Saskatchewan","abbr":"Sask.","code":"SK"},
+{"y":4,"x":4,"name":"Manitoba","abbr":"Man.","code":"MB"},
+{"y":3.5,"x":5,"name":"Ontario","abbr":"Ont.","code":"ON"},
+{"y":3.5,"x":6,"name":"Quebec","abbr":"Que.","code":"QC"},
+{"y":4,"x":7,"name":"Newfoundland and Labrador","abbr":"N.L.","code":"NL"},
+{"y":2.5,"x":6,"name":"New Brunswick","abbr":"N.B.","code":"NB"},
+{"y":3,"x":7,"name":"Prince Edward Island","abbr":"P.E.I.","code":"PE"},
+{"y":2,"x":7,"name":"Nova Scotia","abbr":"N.S.","code":"NS"}]
