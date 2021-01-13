@@ -25,7 +25,7 @@
 #map .legend-title {
 	font-family: BentonSansCond-Bold;
 	font-size: 0.9rem;
-
+	max-width: 90px;
 }
 #map .legend-fill {
 	background: linear-gradient(to right, #D1D2D4 10%, #D4DAEA 20%, #AFBEDB 40%, #829DC7 60%, #3C76B0 80%, #0062A3 100%);
