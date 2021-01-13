@@ -1,0 +1,3532 @@
+{
+  "active": [
+    {
+      "active_cases": 20169,
+      "active_cases_change": -480,
+      "cumulative_cases": 84597,
+      "cumulative_deaths": 760,
+      "cumulative_recovered": 63668,
+      "date_active": "16-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 19865,
+      "active_cases_change": -304,
+      "cumulative_cases": 86168,
+      "cumulative_deaths": 790,
+      "cumulative_recovered": 65513,
+      "date_active": "17-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 19607,
+      "active_cases_change": -258,
+      "cumulative_cases": 87581,
+      "cumulative_deaths": 815,
+      "cumulative_recovered": 67159,
+      "date_active": "18-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 19260,
+      "active_cases_change": -347,
+      "cumulative_cases": 88933,
+      "cumulative_deaths": 841,
+      "cumulative_recovered": 68832,
+      "date_active": "19-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 19201,
+      "active_cases_change": -59,
+      "cumulative_cases": 90219,
+      "cumulative_deaths": 851,
+      "cumulative_recovered": 70167,
+      "date_active": "20-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 19165,
+      "active_cases_change": -36,
+      "cumulative_cases": 91459,
+      "cumulative_deaths": 860,
+      "cumulative_recovered": 71434,
+      "date_active": "21-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 18311,
+      "active_cases_change": -854,
+      "cumulative_cases": 92480,
+      "cumulative_deaths": 871,
+      "cumulative_recovered": 73298,
+      "date_active": "22-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 17821,
+      "active_cases_change": -490,
+      "cumulative_cases": 93781,
+      "cumulative_deaths": 890,
+      "cumulative_recovered": 75070,
+      "date_active": "23-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 17821,
+      "active_cases_change": 0,
+      "cumulative_cases": 93781,
+      "cumulative_deaths": 890,
+      "cumulative_recovered": 75070,
+      "date_active": "24-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 17821,
+      "active_cases_change": 0,
+      "cumulative_cases": 93781,
+      "cumulative_deaths": 890,
+      "cumulative_recovered": 75070,
+      "date_active": "25-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 17821,
+      "active_cases_change": 0,
+      "cumulative_cases": 93781,
+      "cumulative_deaths": 890,
+      "cumulative_recovered": 75070,
+      "date_active": "26-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 17821,
+      "active_cases_change": 0,
+      "cumulative_cases": 93781,
+      "cumulative_deaths": 890,
+      "cumulative_recovered": 75070,
+      "date_active": "27-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 15487,
+      "active_cases_change": -2334,
+      "cumulative_cases": 98269,
+      "cumulative_deaths": 1002,
+      "cumulative_recovered": 81780,
+      "date_active": "28-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 14785,
+      "active_cases_change": -702,
+      "cumulative_cases": 99141,
+      "cumulative_deaths": 1028,
+      "cumulative_recovered": 83328,
+      "date_active": "29-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 14555,
+      "active_cases_change": -230,
+      "cumulative_cases": 100428,
+      "cumulative_deaths": 1046,
+      "cumulative_recovered": 84827,
+      "date_active": "30-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 14555,
+      "active_cases_change": 0,
+      "cumulative_cases": 100428,
+      "cumulative_deaths": 1046,
+      "cumulative_recovered": 84827,
+      "date_active": "31-12-2020",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 14555,
+      "active_cases_change": 0,
+      "cumulative_cases": 100428,
+      "cumulative_deaths": 1046,
+      "cumulative_recovered": 84827,
+      "date_active": "01-01-2021",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 14555,
+      "active_cases_change": 0,
+      "cumulative_cases": 100428,
+      "cumulative_deaths": 1046,
+      "cumulative_recovered": 84827,
+      "date_active": "02-01-2021",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 14555,
+      "active_cases_change": 0,
+      "cumulative_cases": 100428,
+      "cumulative_deaths": 1046,
+      "cumulative_recovered": 84827,
+      "date_active": "03-01-2021",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 13839,
+      "active_cases_change": -716,
+      "cumulative_cases": 105535,
+      "cumulative_deaths": 1142,
+      "cumulative_recovered": 90554,
+      "date_active": "04-01-2021",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 13411,
+      "active_cases_change": -428,
+      "cumulative_cases": 106378,
+      "cumulative_deaths": 1168,
+      "cumulative_recovered": 91799,
+      "date_active": "05-01-2021",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 13450,
+      "active_cases_change": 39,
+      "cumulative_cases": 107501,
+      "cumulative_deaths": 1193,
+      "cumulative_recovered": 92858,
+      "date_active": "06-01-2021",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 13298,
+      "active_cases_change": -152,
+      "cumulative_cases": 108469,
+      "cumulative_deaths": 1217,
+      "cumulative_recovered": 93954,
+      "date_active": "07-01-2021",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 13628,
+      "active_cases_change": 330,
+      "cumulative_cases": 109652,
+      "cumulative_deaths": 1241,
+      "cumulative_recovered": 94783,
+      "date_active": "08-01-2021",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 14437,
+      "active_cases_change": 809,
+      "cumulative_cases": 110641,
+      "cumulative_deaths": 1272,
+      "cumulative_recovered": 94932,
+      "date_active": "09-01-2021",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 14116,
+      "active_cases_change": -321,
+      "cumulative_cases": 111452,
+      "cumulative_deaths": 1284,
+      "cumulative_recovered": 96052,
+      "date_active": "10-01-2021",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 13917,
+      "active_cases_change": -199,
+      "cumulative_cases": 112091,
+      "cumulative_deaths": 1307,
+      "cumulative_recovered": 96867,
+      "date_active": "11-01-2021",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 13220,
+      "active_cases_change": -697,
+      "cumulative_cases": 112743,
+      "cumulative_deaths": 1345,
+      "cumulative_recovered": 98178,
+      "date_active": "12-01-2021",
+      "province": "Alberta"
+    },
+    {
+      "active_cases": 11035,
+      "active_cases_change": 106,
+      "cumulative_cases": 44103,
+      "cumulative_deaths": 692,
+      "cumulative_recovered": 32376,
+      "date_active": "16-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 11100,
+      "active_cases_change": 65,
+      "cumulative_cases": 44776,
+      "cumulative_deaths": 713,
+      "cumulative_recovered": 32963,
+      "date_active": "17-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 11087,
+      "active_cases_change": -13,
+      "cumulative_cases": 45400,
+      "cumulative_deaths": 724,
+      "cumulative_recovered": 33589,
+      "date_active": "18-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 11087,
+      "active_cases_change": 0,
+      "cumulative_cases": 45400,
+      "cumulative_deaths": 724,
+      "cumulative_recovered": 33589,
+      "date_active": "19-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 11087,
+      "active_cases_change": 0,
+      "cumulative_cases": 45400,
+      "cumulative_deaths": 724,
+      "cumulative_recovered": 33589,
+      "date_active": "20-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 10846,
+      "active_cases_change": -241,
+      "cumulative_cases": 47066,
+      "cumulative_deaths": 765,
+      "cumulative_recovered": 35455,
+      "date_active": "21-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 10639,
+      "active_cases_change": -207,
+      "cumulative_cases": 47510,
+      "cumulative_deaths": 777,
+      "cumulative_recovered": 36094,
+      "date_active": "22-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 10279,
+      "active_cases_change": -360,
+      "cumulative_cases": 48027,
+      "cumulative_deaths": 796,
+      "cumulative_recovered": 36952,
+      "date_active": "23-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 10017,
+      "active_cases_change": -262,
+      "cumulative_cases": 48609,
+      "cumulative_deaths": 808,
+      "cumulative_recovered": 37784,
+      "date_active": "24-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 10017,
+      "active_cases_change": 0,
+      "cumulative_cases": 48609,
+      "cumulative_deaths": 808,
+      "cumulative_recovered": 37784,
+      "date_active": "25-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 10017,
+      "active_cases_change": 0,
+      "cumulative_cases": 48609,
+      "cumulative_deaths": 808,
+      "cumulative_recovered": 37784,
+      "date_active": "26-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 10017,
+      "active_cases_change": 0,
+      "cumulative_cases": 48609,
+      "cumulative_deaths": 808,
+      "cumulative_recovered": 37784,
+      "date_active": "27-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 10017,
+      "active_cases_change": 0,
+      "cumulative_cases": 48609,
+      "cumulative_deaths": 808,
+      "cumulative_recovered": 37784,
+      "date_active": "28-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 8758,
+      "active_cases_change": -1259,
+      "cumulative_cases": 50815,
+      "cumulative_deaths": 882,
+      "cumulative_recovered": 41175,
+      "date_active": "29-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 8726,
+      "active_cases_change": -32,
+      "cumulative_cases": 51300,
+      "cumulative_deaths": 893,
+      "cumulative_recovered": 41681,
+      "date_active": "30-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 8960,
+      "active_cases_change": 234,
+      "cumulative_cases": 51990,
+      "cumulative_deaths": 901,
+      "cumulative_recovered": 42129,
+      "date_active": "31-12-2020",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 8960,
+      "active_cases_change": 0,
+      "cumulative_cases": 51990,
+      "cumulative_deaths": 901,
+      "cumulative_recovered": 42129,
+      "date_active": "01-01-2021",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 8960,
+      "active_cases_change": 0,
+      "cumulative_cases": 51990,
+      "cumulative_deaths": 901,
+      "cumulative_recovered": 42129,
+      "date_active": "02-01-2021",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 8960,
+      "active_cases_change": 0,
+      "cumulative_cases": 51990,
+      "cumulative_deaths": 901,
+      "cumulative_recovered": 42129,
+      "date_active": "03-01-2021",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 8026,
+      "active_cases_change": -934,
+      "cumulative_cases": 54201,
+      "cumulative_deaths": 946,
+      "cumulative_recovered": 45229,
+      "date_active": "04-01-2021",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 7676,
+      "active_cases_change": -350,
+      "cumulative_cases": 54629,
+      "cumulative_deaths": 954,
+      "cumulative_recovered": 45999,
+      "date_active": "05-01-2021",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 7564,
+      "active_cases_change": -112,
+      "cumulative_cases": 55254,
+      "cumulative_deaths": 962,
+      "cumulative_recovered": 46728,
+      "date_active": "06-01-2021",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 7671,
+      "active_cases_change": 107,
+      "cumulative_cases": 56015,
+      "cumulative_deaths": 970,
+      "cumulative_recovered": 47374,
+      "date_active": "07-01-2021",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 7439,
+      "active_cases_change": -232,
+      "cumulative_cases": 56632,
+      "cumulative_deaths": 988,
+      "cumulative_recovered": 48205,
+      "date_active": "08-01-2021",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 7439,
+      "active_cases_change": 0,
+      "cumulative_cases": 56632,
+      "cumulative_deaths": 988,
+      "cumulative_recovered": 48205,
+      "date_active": "09-01-2021",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 7439,
+      "active_cases_change": 0,
+      "cumulative_cases": 56632,
+      "cumulative_deaths": 988,
+      "cumulative_recovered": 48205,
+      "date_active": "10-01-2021",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 6556,
+      "active_cases_change": -883,
+      "cumulative_cases": 58107,
+      "cumulative_deaths": 1010,
+      "cumulative_recovered": 50541,
+      "date_active": "11-01-2021",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 6390,
+      "active_cases_change": -166,
+      "cumulative_cases": 58553,
+      "cumulative_deaths": 1019,
+      "cumulative_recovered": 51144,
+      "date_active": "12-01-2021",
+      "province": "British Columbia"
+    },
+    {
+      "active_cases": 5797,
+      "active_cases_change": 36,
+      "cumulative_cases": 21826,
+      "cumulative_deaths": 523,
+      "cumulative_recovered": 15506,
+      "date_active": "16-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 5829,
+      "active_cases_change": 32,
+      "cumulative_cases": 22047,
+      "cumulative_deaths": 537,
+      "cumulative_recovered": 15681,
+      "date_active": "17-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 5597,
+      "active_cases_change": -232,
+      "cumulative_cases": 22392,
+      "cumulative_deaths": 547,
+      "cumulative_recovered": 16248,
+      "date_active": "18-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 5669,
+      "active_cases_change": 72,
+      "cumulative_cases": 22630,
+      "cumulative_deaths": 555,
+      "cumulative_recovered": 16406,
+      "date_active": "19-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 5750,
+      "active_cases_change": 81,
+      "cumulative_cases": 22859,
+      "cumulative_deaths": 568,
+      "cumulative_recovered": 16541,
+      "date_active": "20-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 5736,
+      "active_cases_change": -14,
+      "cumulative_cases": 23025,
+      "cumulative_deaths": 572,
+      "cumulative_recovered": 16717,
+      "date_active": "21-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4382,
+      "active_cases_change": -1354,
+      "cumulative_cases": 23180,
+      "cumulative_deaths": 590,
+      "cumulative_recovered": 18208,
+      "date_active": "22-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4426,
+      "active_cases_change": 44,
+      "cumulative_cases": 23380,
+      "cumulative_deaths": 605,
+      "cumulative_recovered": 18349,
+      "date_active": "23-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4486,
+      "active_cases_change": 60,
+      "cumulative_cases": 23621,
+      "cumulative_deaths": 617,
+      "cumulative_recovered": 18518,
+      "date_active": "24-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4486,
+      "active_cases_change": 0,
+      "cumulative_cases": 23621,
+      "cumulative_deaths": 617,
+      "cumulative_recovered": 18518,
+      "date_active": "25-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4486,
+      "active_cases_change": 0,
+      "cumulative_cases": 23621,
+      "cumulative_deaths": 617,
+      "cumulative_recovered": 18518,
+      "date_active": "26-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4488,
+      "active_cases_change": 2,
+      "cumulative_cases": 24145,
+      "cumulative_deaths": 645,
+      "cumulative_recovered": 19012,
+      "date_active": "27-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4442,
+      "active_cases_change": -46,
+      "cumulative_cases": 24252,
+      "cumulative_deaths": 654,
+      "cumulative_recovered": 19156,
+      "date_active": "28-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4422,
+      "active_cases_change": -20,
+      "cumulative_cases": 24383,
+      "cumulative_deaths": 659,
+      "cumulative_recovered": 19302,
+      "date_active": "29-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4444,
+      "active_cases_change": 22,
+      "cumulative_cases": 24513,
+      "cumulative_deaths": 661,
+      "cumulative_recovered": 19408,
+      "date_active": "30-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4504,
+      "active_cases_change": 60,
+      "cumulative_cases": 24699,
+      "cumulative_deaths": 667,
+      "cumulative_recovered": 19528,
+      "date_active": "31-12-2020",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4504,
+      "active_cases_change": 0,
+      "cumulative_cases": 24699,
+      "cumulative_deaths": 667,
+      "cumulative_recovered": 19528,
+      "date_active": "01-01-2021",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4558,
+      "active_cases_change": 54,
+      "cumulative_cases": 25025,
+      "cumulative_deaths": 678,
+      "cumulative_recovered": 19789,
+      "date_active": "02-01-2021",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4461,
+      "active_cases_change": -97,
+      "cumulative_cases": 25126,
+      "cumulative_deaths": 683,
+      "cumulative_recovered": 19982,
+      "date_active": "03-01-2021",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4423,
+      "active_cases_change": -38,
+      "cumulative_cases": 25244,
+      "cumulative_deaths": 688,
+      "cumulative_recovered": 20133,
+      "date_active": "04-01-2021",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4418,
+      "active_cases_change": -5,
+      "cumulative_cases": 25365,
+      "cumulative_deaths": 695,
+      "cumulative_recovered": 20252,
+      "date_active": "05-01-2021",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4453,
+      "active_cases_change": 35,
+      "cumulative_cases": 25534,
+      "cumulative_deaths": 705,
+      "cumulative_recovered": 20376,
+      "date_active": "06-01-2021",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4505,
+      "active_cases_change": 52,
+      "cumulative_cases": 25741,
+      "cumulative_deaths": 717,
+      "cumulative_recovered": 20519,
+      "date_active": "07-01-2021",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4582,
+      "active_cases_change": 77,
+      "cumulative_cases": 25963,
+      "cumulative_deaths": 726,
+      "cumulative_recovered": 20655,
+      "date_active": "08-01-2021",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4664,
+      "active_cases_change": 82,
+      "cumulative_cases": 26166,
+      "cumulative_deaths": 733,
+      "cumulative_recovered": 20769,
+      "date_active": "09-01-2021",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 4730,
+      "active_cases_change": 66,
+      "cumulative_cases": 26317,
+      "cumulative_deaths": 737,
+      "cumulative_recovered": 20850,
+      "date_active": "10-01-2021",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 3413,
+      "active_cases_change": -1317,
+      "cumulative_cases": 26448,
+      "cumulative_deaths": 740,
+      "cumulative_recovered": 22295,
+      "date_active": "11-01-2021",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 3100,
+      "active_cases_change": -313,
+      "cumulative_cases": 26540,
+      "cumulative_deaths": 748,
+      "cumulative_recovered": 22692,
+      "date_active": "12-01-2021",
+      "province": "Manitoba"
+    },
+    {
+      "active_cases": 52,
+      "active_cases_change": 4,
+      "cumulative_cases": 567,
+      "cumulative_deaths": 8,
+      "cumulative_recovered": 507,
+      "date_active": "16-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 56,
+      "active_cases_change": 4,
+      "cumulative_cases": 573,
+      "cumulative_deaths": 8,
+      "cumulative_recovered": 509,
+      "date_active": "17-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 53,
+      "active_cases_change": -3,
+      "cumulative_cases": 573,
+      "cumulative_deaths": 8,
+      "cumulative_recovered": 512,
+      "date_active": "18-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 46,
+      "active_cases_change": -7,
+      "cumulative_cases": 574,
+      "cumulative_deaths": 8,
+      "cumulative_recovered": 520,
+      "date_active": "19-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 46,
+      "active_cases_change": 0,
+      "cumulative_cases": 574,
+      "cumulative_deaths": 8,
+      "cumulative_recovered": 520,
+      "date_active": "20-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 49,
+      "active_cases_change": 3,
+      "cumulative_cases": 578,
+      "cumulative_deaths": 8,
+      "cumulative_recovered": 521,
+      "date_active": "21-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 47,
+      "active_cases_change": -2,
+      "cumulative_cases": 580,
+      "cumulative_deaths": 8,
+      "cumulative_recovered": 525,
+      "date_active": "22-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 47,
+      "active_cases_change": 0,
+      "cumulative_cases": 585,
+      "cumulative_deaths": 8,
+      "cumulative_recovered": 530,
+      "date_active": "23-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 45,
+      "active_cases_change": -2,
+      "cumulative_cases": 587,
+      "cumulative_deaths": 8,
+      "cumulative_recovered": 534,
+      "date_active": "24-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 44,
+      "active_cases_change": -1,
+      "cumulative_cases": 588,
+      "cumulative_deaths": 8,
+      "cumulative_recovered": 536,
+      "date_active": "25-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 39,
+      "active_cases_change": -5,
+      "cumulative_cases": 590,
+      "cumulative_deaths": 8,
+      "cumulative_recovered": 543,
+      "date_active": "26-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 35,
+      "active_cases_change": -4,
+      "cumulative_cases": 592,
+      "cumulative_deaths": 8,
+      "cumulative_recovered": 549,
+      "date_active": "27-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 34,
+      "active_cases_change": -1,
+      "cumulative_cases": 593,
+      "cumulative_deaths": 8,
+      "cumulative_recovered": 551,
+      "date_active": "28-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 32,
+      "active_cases_change": -2,
+      "cumulative_cases": 595,
+      "cumulative_deaths": 8,
+      "cumulative_recovered": 555,
+      "date_active": "29-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 28,
+      "active_cases_change": -4,
+      "cumulative_cases": 596,
+      "cumulative_deaths": 8,
+      "cumulative_recovered": 560,
+      "date_active": "30-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 29,
+      "active_cases_change": 1,
+      "cumulative_cases": 599,
+      "cumulative_deaths": 9,
+      "cumulative_recovered": 561,
+      "date_active": "31-12-2020",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 25,
+      "active_cases_change": -4,
+      "cumulative_cases": 601,
+      "cumulative_deaths": 9,
+      "cumulative_recovered": 567,
+      "date_active": "01-01-2021",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 35,
+      "active_cases_change": 10,
+      "cumulative_cases": 611,
+      "cumulative_deaths": 9,
+      "cumulative_recovered": 567,
+      "date_active": "02-01-2021",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 42,
+      "active_cases_change": 7,
+      "cumulative_cases": 618,
+      "cumulative_deaths": 9,
+      "cumulative_recovered": 567,
+      "date_active": "03-01-2021",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 56,
+      "active_cases_change": 14,
+      "cumulative_cases": 635,
+      "cumulative_deaths": 9,
+      "cumulative_recovered": 570,
+      "date_active": "04-01-2021",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 81,
+      "active_cases_change": 25,
+      "cumulative_cases": 662,
+      "cumulative_deaths": 9,
+      "cumulative_recovered": 572,
+      "date_active": "05-01-2021",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 111,
+      "active_cases_change": 30,
+      "cumulative_cases": 693,
+      "cumulative_deaths": 9,
+      "cumulative_recovered": 573,
+      "date_active": "06-01-2021",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 131,
+      "active_cases_change": 20,
+      "cumulative_cases": 717,
+      "cumulative_deaths": 9,
+      "cumulative_recovered": 577,
+      "date_active": "07-01-2021",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 144,
+      "active_cases_change": 13,
+      "cumulative_cases": 735,
+      "cumulative_deaths": 9,
+      "cumulative_recovered": 582,
+      "date_active": "08-01-2021",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 172,
+      "active_cases_change": 28,
+      "cumulative_cases": 765,
+      "cumulative_deaths": 9,
+      "cumulative_recovered": 584,
+      "date_active": "09-01-2021",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 185,
+      "active_cases_change": 13,
+      "cumulative_cases": 779,
+      "cumulative_deaths": 9,
+      "cumulative_recovered": 585,
+      "date_active": "10-01-2021",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 205,
+      "active_cases_change": 20,
+      "cumulative_cases": 800,
+      "cumulative_deaths": 9,
+      "cumulative_recovered": 586,
+      "date_active": "11-01-2021",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 220,
+      "active_cases_change": 15,
+      "cumulative_cases": 817,
+      "cumulative_deaths": 11,
+      "cumulative_recovered": 586,
+      "date_active": "12-01-2021",
+      "province": "New Brunswick"
+    },
+    {
+      "active_cases": 23,
+      "active_cases_change": 3,
+      "cumulative_cases": 364,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 337,
+      "date_active": "16-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 24,
+      "active_cases_change": 1,
+      "cumulative_cases": 367,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 339,
+      "date_active": "17-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 27,
+      "active_cases_change": 3,
+      "cumulative_cases": 372,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 341,
+      "date_active": "18-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 34,
+      "active_cases_change": 7,
+      "cumulative_cases": 380,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 342,
+      "date_active": "19-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 34,
+      "active_cases_change": 0,
+      "cumulative_cases": 382,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 344,
+      "date_active": "20-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 31,
+      "active_cases_change": -3,
+      "cumulative_cases": 382,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 347,
+      "date_active": "21-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 32,
+      "active_cases_change": 1,
+      "cumulative_cases": 383,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 347,
+      "date_active": "22-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 26,
+      "active_cases_change": -6,
+      "cumulative_cases": 384,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 354,
+      "date_active": "23-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 24,
+      "active_cases_change": -2,
+      "cumulative_cases": 384,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 356,
+      "date_active": "24-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 24,
+      "active_cases_change": 0,
+      "cumulative_cases": 384,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 356,
+      "date_active": "25-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 24,
+      "active_cases_change": 0,
+      "cumulative_cases": 384,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 356,
+      "date_active": "26-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 24,
+      "active_cases_change": 0,
+      "cumulative_cases": 387,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 359,
+      "date_active": "27-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 22,
+      "active_cases_change": -2,
+      "cumulative_cases": 389,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 363,
+      "date_active": "28-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 22,
+      "active_cases_change": 0,
+      "cumulative_cases": 390,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 364,
+      "date_active": "29-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 21,
+      "active_cases_change": -1,
+      "cumulative_cases": 390,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 365,
+      "date_active": "30-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 20,
+      "active_cases_change": -1,
+      "cumulative_cases": 390,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 366,
+      "date_active": "31-12-2020",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 20,
+      "active_cases_change": 0,
+      "cumulative_cases": 390,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 366,
+      "date_active": "01-01-2021",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 14,
+      "active_cases_change": -6,
+      "cumulative_cases": 390,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 372,
+      "date_active": "02-01-2021",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 12,
+      "active_cases_change": -2,
+      "cumulative_cases": 390,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 374,
+      "date_active": "03-01-2021",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 13,
+      "active_cases_change": 1,
+      "cumulative_cases": 391,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 374,
+      "date_active": "04-01-2021",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 14,
+      "active_cases_change": 1,
+      "cumulative_cases": 392,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 374,
+      "date_active": "05-01-2021",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 12,
+      "active_cases_change": -2,
+      "cumulative_cases": 392,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 376,
+      "date_active": "06-01-2021",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 12,
+      "active_cases_change": 0,
+      "cumulative_cases": 392,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 376,
+      "date_active": "07-01-2021",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 12,
+      "active_cases_change": 0,
+      "cumulative_cases": 392,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 376,
+      "date_active": "08-01-2021",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 7,
+      "active_cases_change": -5,
+      "cumulative_cases": 392,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 381,
+      "date_active": "09-01-2021",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": 1,
+      "cumulative_cases": 393,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 381,
+      "date_active": "10-01-2021",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": 0,
+      "cumulative_cases": 393,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 381,
+      "date_active": "11-01-2021",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 7,
+      "active_cases_change": -1,
+      "cumulative_cases": 393,
+      "cumulative_deaths": 4,
+      "cumulative_recovered": 382,
+      "date_active": "12-01-2021",
+      "province": "Newfoundland and Labrador"
+    },
+    {
+      "active_cases": 55,
+      "active_cases_change": -2,
+      "cumulative_cases": 1430,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1310,
+      "date_active": "16-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 50,
+      "active_cases_change": -5,
+      "cumulative_cases": 1436,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1321,
+      "date_active": "17-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 46,
+      "active_cases_change": -4,
+      "cumulative_cases": 1441,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1330,
+      "date_active": "18-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 44,
+      "active_cases_change": -2,
+      "cumulative_cases": 1443,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1334,
+      "date_active": "19-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 41,
+      "active_cases_change": -3,
+      "cumulative_cases": 1445,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1339,
+      "date_active": "20-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 38,
+      "active_cases_change": -3,
+      "cumulative_cases": 1447,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1344,
+      "date_active": "21-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 40,
+      "active_cases_change": 2,
+      "cumulative_cases": 1454,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1349,
+      "date_active": "22-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 35,
+      "active_cases_change": -5,
+      "cumulative_cases": 1458,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1358,
+      "date_active": "23-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 36,
+      "active_cases_change": 1,
+      "cumulative_cases": 1465,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1364,
+      "date_active": "24-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 36,
+      "active_cases_change": 0,
+      "cumulative_cases": 1465,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1364,
+      "date_active": "25-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 45,
+      "active_cases_change": 9,
+      "cumulative_cases": 1474,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1364,
+      "date_active": "26-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 48,
+      "active_cases_change": 3,
+      "cumulative_cases": 1477,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1364,
+      "date_active": "27-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 33,
+      "active_cases_change": -15,
+      "cumulative_cases": 1478,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1380,
+      "date_active": "28-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 30,
+      "active_cases_change": -3,
+      "cumulative_cases": 1480,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1385,
+      "date_active": "29-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 25,
+      "active_cases_change": -5,
+      "cumulative_cases": 1483,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1393,
+      "date_active": "30-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 22,
+      "active_cases_change": -3,
+      "cumulative_cases": 1486,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1399,
+      "date_active": "31-12-2020",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 33,
+      "active_cases_change": 11,
+      "cumulative_cases": 1497,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1399,
+      "date_active": "01-01-2021",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 31,
+      "active_cases_change": -2,
+      "cumulative_cases": 1499,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1403,
+      "date_active": "02-01-2021",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 33,
+      "active_cases_change": 2,
+      "cumulative_cases": 1501,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1403,
+      "date_active": "03-01-2021",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 27,
+      "active_cases_change": -6,
+      "cumulative_cases": 1505,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1413,
+      "date_active": "04-01-2021",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 19,
+      "active_cases_change": -8,
+      "cumulative_cases": 1508,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1424,
+      "date_active": "05-01-2021",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 29,
+      "active_cases_change": 10,
+      "cumulative_cases": 1520,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1426,
+      "date_active": "06-01-2021",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 28,
+      "active_cases_change": -1,
+      "cumulative_cases": 1524,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1431,
+      "date_active": "07-01-2021",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 29,
+      "active_cases_change": 1,
+      "cumulative_cases": 1526,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1432,
+      "date_active": "08-01-2021",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 30,
+      "active_cases_change": 1,
+      "cumulative_cases": 1528,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1433,
+      "date_active": "09-01-2021",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 28,
+      "active_cases_change": -2,
+      "cumulative_cases": 1528,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1435,
+      "date_active": "10-01-2021",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 26,
+      "active_cases_change": -2,
+      "cumulative_cases": 1533,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1442,
+      "date_active": "11-01-2021",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 27,
+      "active_cases_change": 1,
+      "cumulative_cases": 1534,
+      "cumulative_deaths": 65,
+      "cumulative_recovered": 1442,
+      "date_active": "12-01-2021",
+      "province": "Nova Scotia"
+    },
+    {
+      "active_cases": 41,
+      "active_cases_change": -4,
+      "cumulative_cases": 258,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 217,
+      "date_active": "16-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 37,
+      "active_cases_change": -4,
+      "cumulative_cases": 259,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 222,
+      "date_active": "17-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 34,
+      "active_cases_change": -3,
+      "cumulative_cases": 259,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 225,
+      "date_active": "18-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 34,
+      "active_cases_change": 0,
+      "cumulative_cases": 259,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 225,
+      "date_active": "19-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 32,
+      "active_cases_change": -2,
+      "cumulative_cases": 259,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 225,
+      "date_active": "20-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 17,
+      "active_cases_change": -15,
+      "cumulative_cases": 262,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 243,
+      "date_active": "21-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": -9,
+      "cumulative_cases": 262,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 252,
+      "date_active": "22-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 7,
+      "active_cases_change": -1,
+      "cumulative_cases": 264,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 255,
+      "date_active": "23-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": 1,
+      "cumulative_cases": 265,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 255,
+      "date_active": "24-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": 0,
+      "cumulative_cases": 265,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 255,
+      "date_active": "25-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": 0,
+      "cumulative_cases": 265,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 255,
+      "date_active": "26-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": 0,
+      "cumulative_cases": 265,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 255,
+      "date_active": "27-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": 0,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 256,
+      "date_active": "28-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 5,
+      "active_cases_change": -3,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 259,
+      "date_active": "29-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 2,
+      "active_cases_change": -3,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 262,
+      "date_active": "30-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 2,
+      "active_cases_change": 0,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 262,
+      "date_active": "31-12-2020",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 2,
+      "active_cases_change": 0,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 262,
+      "date_active": "01-01-2021",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 2,
+      "active_cases_change": 0,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 262,
+      "date_active": "02-01-2021",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": -1,
+      "active_cases_change": -3,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 265,
+      "date_active": "03-01-2021",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": -1,
+      "active_cases_change": 0,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 265,
+      "date_active": "04-01-2021",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": -1,
+      "active_cases_change": 0,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 265,
+      "date_active": "05-01-2021",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": -1,
+      "active_cases_change": 0,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 265,
+      "date_active": "06-01-2021",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": -1,
+      "active_cases_change": 0,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 265,
+      "date_active": "07-01-2021",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": -1,
+      "active_cases_change": 0,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 265,
+      "date_active": "08-01-2021",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": -1,
+      "active_cases_change": 0,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 265,
+      "date_active": "09-01-2021",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": -1,
+      "active_cases_change": 0,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 265,
+      "date_active": "10-01-2021",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": -1,
+      "active_cases_change": 0,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 265,
+      "date_active": "11-01-2021",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": -1,
+      "active_cases_change": 0,
+      "cumulative_cases": 266,
+      "cumulative_deaths": 2,
+      "cumulative_recovered": 265,
+      "date_active": "12-01-2021",
+      "province": "Nunavut"
+    },
+    {
+      "active_cases": 7,
+      "active_cases_change": 0,
+      "cumulative_cases": 22,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 15,
+      "date_active": "16-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": 1,
+      "cumulative_cases": 23,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 15,
+      "date_active": "17-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 9,
+      "active_cases_change": 1,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 15,
+      "date_active": "18-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 9,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 15,
+      "date_active": "19-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 9,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 15,
+      "date_active": "20-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 3,
+      "active_cases_change": -6,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 21,
+      "date_active": "21-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 3,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 21,
+      "date_active": "22-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 1,
+      "active_cases_change": -2,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 23,
+      "date_active": "23-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 1,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 23,
+      "date_active": "24-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 1,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 23,
+      "date_active": "25-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 1,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 23,
+      "date_active": "26-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 1,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 23,
+      "date_active": "27-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 1,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 23,
+      "date_active": "28-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": -1,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 24,
+      "date_active": "29-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 24,
+      "date_active": "30-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 24,
+      "date_active": "31-12-2020",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 24,
+      "date_active": "01-01-2021",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 24,
+      "date_active": "02-01-2021",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 24,
+      "date_active": "03-01-2021",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 24,
+      "date_active": "04-01-2021",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 24,
+      "date_active": "05-01-2021",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 24,
+      "date_active": "06-01-2021",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 24,
+      "date_active": "07-01-2021",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 24,
+      "date_active": "08-01-2021",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 24,
+      "date_active": "09-01-2021",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 24,
+      "date_active": "10-01-2021",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 24,
+      "date_active": "11-01-2021",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 24,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 24,
+      "date_active": "12-01-2021",
+      "province": "Northwest Territories Territories"
+    },
+    {
+      "active_cases": 20946,
+      "active_cases_change": 175,
+      "cumulative_cases": 150433,
+      "cumulative_deaths": 4071,
+      "cumulative_recovered": 125416,
+      "date_active": "16-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 21373,
+      "active_cases_change": 427,
+      "cumulative_cases": 152896,
+      "cumulative_deaths": 4098,
+      "cumulative_recovered": 127425,
+      "date_active": "17-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 21638,
+      "active_cases_change": 265,
+      "cumulative_cases": 155184,
+      "cumulative_deaths": 4129,
+      "cumulative_recovered": 129417,
+      "date_active": "18-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 22203,
+      "active_cases_change": 565,
+      "cumulative_cases": 157654,
+      "cumulative_deaths": 4169,
+      "cumulative_recovered": 131282,
+      "date_active": "19-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 22173,
+      "active_cases_change": -30,
+      "cumulative_cases": 159569,
+      "cumulative_deaths": 4183,
+      "cumulative_recovered": 133213,
+      "date_active": "20-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 22950,
+      "active_cases_change": 777,
+      "cumulative_cases": 162024,
+      "cumulative_deaths": 4207,
+      "cumulative_recovered": 134867,
+      "date_active": "21-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 23295,
+      "active_cases_change": 345,
+      "cumulative_cases": 164301,
+      "cumulative_deaths": 4239,
+      "cumulative_recovered": 136767,
+      "date_active": "22-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 23515,
+      "active_cases_change": 220,
+      "cumulative_cases": 166811,
+      "cumulative_deaths": 4286,
+      "cumulative_recovered": 139010,
+      "date_active": "23-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 23813,
+      "active_cases_change": 298,
+      "cumulative_cases": 169168,
+      "cumulative_deaths": 4332,
+      "cumulative_recovered": 141023,
+      "date_active": "24-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 24211,
+      "active_cases_change": 398,
+      "cumulative_cases": 169567,
+      "cumulative_deaths": 4333,
+      "cumulative_recovered": 141023,
+      "date_active": "25-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 21761,
+      "active_cases_change": -2450,
+      "cumulative_cases": 171276,
+      "cumulative_deaths": 4342,
+      "cumulative_recovered": 145173,
+      "date_active": "26-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 21658,
+      "active_cases_change": -103,
+      "cumulative_cases": 173194,
+      "cumulative_deaths": 4358,
+      "cumulative_recovered": 147178,
+      "date_active": "27-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 23264,
+      "active_cases_change": 1606,
+      "cumulative_cases": 177067,
+      "cumulative_deaths": 4474,
+      "cumulative_recovered": 149329,
+      "date_active": "28-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 24075,
+      "active_cases_change": 811,
+      "cumulative_cases": 180140,
+      "cumulative_deaths": 4503,
+      "cumulative_recovered": 151562,
+      "date_active": "29-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 24825,
+      "active_cases_change": 750,
+      "cumulative_cases": 183172,
+      "cumulative_deaths": 4548,
+      "cumulative_recovered": 153799,
+      "date_active": "30-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 25791,
+      "active_cases_change": 966,
+      "cumulative_cases": 186394,
+      "cumulative_deaths": 4591,
+      "cumulative_recovered": 156012,
+      "date_active": "31-12-2020",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 24015,
+      "active_cases_change": -1776,
+      "cumulative_cases": 187090,
+      "cumulative_deaths": 4603,
+      "cumulative_recovered": 158472,
+      "date_active": "01-01-2021",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 25727,
+      "active_cases_change": 1712,
+      "cumulative_cases": 190892,
+      "cumulative_deaths": 4639,
+      "cumulative_recovered": 160526,
+      "date_active": "02-01-2021",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 27555,
+      "active_cases_change": 1828,
+      "cumulative_cases": 194937,
+      "cumulative_deaths": 4681,
+      "cumulative_recovered": 162701,
+      "date_active": "03-01-2021",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 29517,
+      "active_cases_change": 1962,
+      "cumulative_cases": 199015,
+      "cumulative_deaths": 4723,
+      "cumulative_recovered": 164775,
+      "date_active": "04-01-2021",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 30702,
+      "active_cases_change": 1185,
+      "cumulative_cases": 202270,
+      "cumulative_deaths": 4778,
+      "cumulative_recovered": 166790,
+      "date_active": "05-01-2021",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 30668,
+      "active_cases_change": -34,
+      "cumulative_cases": 205314,
+      "cumulative_deaths": 4851,
+      "cumulative_recovered": 169795,
+      "date_active": "06-01-2021",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 31195,
+      "active_cases_change": 527,
+      "cumulative_cases": 208671,
+      "cumulative_deaths": 4905,
+      "cumulative_recovered": 172571,
+      "date_active": "07-01-2021",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 32633,
+      "active_cases_change": 1438,
+      "cumulative_cases": 212901,
+      "cumulative_deaths": 4959,
+      "cumulative_recovered": 175309,
+      "date_active": "08-01-2021",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 33390,
+      "active_cases_change": 757,
+      "cumulative_cases": 216618,
+      "cumulative_deaths": 5004,
+      "cumulative_recovered": 178224,
+      "date_active": "09-01-2021",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 34195,
+      "active_cases_change": 805,
+      "cumulative_cases": 219946,
+      "cumulative_deaths": 5031,
+      "cumulative_recovered": 180720,
+      "date_active": "10-01-2021",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 35415,
+      "active_cases_change": 1220,
+      "cumulative_cases": 223966,
+      "cumulative_deaths": 5075,
+      "cumulative_recovered": 183476,
+      "date_active": "11-01-2021",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 34693,
+      "active_cases_change": -722,
+      "cumulative_cases": 226661,
+      "cumulative_deaths": 5139,
+      "cumulative_recovered": 186829,
+      "date_active": "12-01-2021",
+      "province": "Ontario"
+    },
+    {
+      "active_cases": 16,
+      "active_cases_change": 0,
+      "cumulative_cases": 89,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 73,
+      "date_active": "16-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 17,
+      "active_cases_change": 1,
+      "cumulative_cases": 90,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 73,
+      "date_active": "17-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 17,
+      "active_cases_change": 0,
+      "cumulative_cases": 90,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 73,
+      "date_active": "18-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 18,
+      "active_cases_change": 1,
+      "cumulative_cases": 91,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 73,
+      "date_active": "19-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 18,
+      "active_cases_change": 0,
+      "cumulative_cases": 91,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 73,
+      "date_active": "20-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 18,
+      "active_cases_change": 0,
+      "cumulative_cases": 91,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 73,
+      "date_active": "21-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 7,
+      "active_cases_change": -11,
+      "cumulative_cases": 91,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 84,
+      "date_active": "22-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 7,
+      "active_cases_change": 0,
+      "cumulative_cases": 91,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 84,
+      "date_active": "23-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 5,
+      "active_cases_change": -2,
+      "cumulative_cases": 94,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 89,
+      "date_active": "24-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 5,
+      "active_cases_change": 0,
+      "cumulative_cases": 94,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 89,
+      "date_active": "25-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 5,
+      "active_cases_change": 0,
+      "cumulative_cases": 94,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 89,
+      "date_active": "26-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 5,
+      "active_cases_change": 0,
+      "cumulative_cases": 94,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 89,
+      "date_active": "27-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 5,
+      "active_cases_change": 0,
+      "cumulative_cases": 94,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 89,
+      "date_active": "28-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 6,
+      "active_cases_change": 1,
+      "cumulative_cases": 96,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 90,
+      "date_active": "29-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 6,
+      "active_cases_change": 0,
+      "cumulative_cases": 96,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 90,
+      "date_active": "30-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 6,
+      "active_cases_change": 0,
+      "cumulative_cases": 96,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 90,
+      "date_active": "31-12-2020",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 6,
+      "active_cases_change": 0,
+      "cumulative_cases": 96,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 90,
+      "date_active": "01-01-2021",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 6,
+      "active_cases_change": 0,
+      "cumulative_cases": 96,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 90,
+      "date_active": "02-01-2021",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 6,
+      "active_cases_change": 0,
+      "cumulative_cases": 96,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 90,
+      "date_active": "03-01-2021",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 6,
+      "active_cases_change": 0,
+      "cumulative_cases": 96,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 90,
+      "date_active": "04-01-2021",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 4,
+      "active_cases_change": -2,
+      "cumulative_cases": 97,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 93,
+      "date_active": "05-01-2021",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": 4,
+      "cumulative_cases": 101,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 93,
+      "date_active": "06-01-2021",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": 0,
+      "cumulative_cases": 102,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 94,
+      "date_active": "07-01-2021",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": 0,
+      "cumulative_cases": 102,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 94,
+      "date_active": "08-01-2021",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": 0,
+      "cumulative_cases": 102,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 94,
+      "date_active": "09-01-2021",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": 0,
+      "cumulative_cases": 102,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 94,
+      "date_active": "10-01-2021",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": 0,
+      "cumulative_cases": 102,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 94,
+      "date_active": "11-01-2021",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 8,
+      "active_cases_change": 0,
+      "cumulative_cases": 103,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 95,
+      "date_active": "12-01-2021",
+      "province": "Prince Edward Island"
+    },
+    {
+      "active_cases": 17392,
+      "active_cases_change": 580,
+      "cumulative_cases": 169173,
+      "cumulative_deaths": 7613,
+      "cumulative_recovered": 144168,
+      "date_active": "16-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 17861,
+      "active_cases_change": 469,
+      "cumulative_cases": 171028,
+      "cumulative_deaths": 7635,
+      "cumulative_recovered": 145532,
+      "date_active": "17-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 17732,
+      "active_cases_change": -129,
+      "cumulative_cases": 172801,
+      "cumulative_deaths": 7671,
+      "cumulative_recovered": 147398,
+      "date_active": "18-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 17879,
+      "active_cases_change": 147,
+      "cumulative_cases": 174839,
+      "cumulative_deaths": 7715,
+      "cumulative_recovered": 149245,
+      "date_active": "19-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 18205,
+      "active_cases_change": 326,
+      "cumulative_cases": 176985,
+      "cumulative_deaths": 7736,
+      "cumulative_recovered": 151044,
+      "date_active": "20-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 18458,
+      "active_cases_change": 253,
+      "cumulative_cases": 179093,
+      "cumulative_deaths": 7766,
+      "cumulative_recovered": 152869,
+      "date_active": "21-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 18809,
+      "active_cases_change": 351,
+      "cumulative_cases": 181276,
+      "cumulative_deaths": 7794,
+      "cumulative_recovered": 154673,
+      "date_active": "22-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 19381,
+      "active_cases_change": 572,
+      "cumulative_cases": 183523,
+      "cumulative_deaths": 7867,
+      "cumulative_recovered": 156275,
+      "date_active": "23-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 19758,
+      "active_cases_change": 377,
+      "cumulative_cases": 185872,
+      "cumulative_deaths": 7913,
+      "cumulative_recovered": 158201,
+      "date_active": "24-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 19758,
+      "active_cases_change": 0,
+      "cumulative_cases": 185872,
+      "cumulative_deaths": 7913,
+      "cumulative_recovered": 158201,
+      "date_active": "25-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 19758,
+      "active_cases_change": 0,
+      "cumulative_cases": 185872,
+      "cumulative_deaths": 7913,
+      "cumulative_recovered": 158201,
+      "date_active": "26-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 26441,
+      "active_cases_change": 6683,
+      "cumulative_cases": 192665,
+      "cumulative_deaths": 8023,
+      "cumulative_recovered": 158201,
+      "date_active": "27-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 20804,
+      "active_cases_change": -5637,
+      "cumulative_cases": 194930,
+      "cumulative_deaths": 8060,
+      "cumulative_recovered": 166066,
+      "date_active": "28-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 21126,
+      "active_cases_change": 322,
+      "cumulative_cases": 197311,
+      "cumulative_deaths": 8124,
+      "cumulative_recovered": 168061,
+      "date_active": "29-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 21612,
+      "active_cases_change": 486,
+      "cumulative_cases": 199822,
+      "cumulative_deaths": 8165,
+      "cumulative_recovered": 170045,
+      "date_active": "30-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 22368,
+      "active_cases_change": 756,
+      "cumulative_cases": 202641,
+      "cumulative_deaths": 8226,
+      "cumulative_recovered": 172047,
+      "date_active": "31-12-2020",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 22368,
+      "active_cases_change": 0,
+      "cumulative_cases": 202641,
+      "cumulative_deaths": 8226,
+      "cumulative_recovered": 172047,
+      "date_active": "01-01-2021",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 22368,
+      "active_cases_change": 0,
+      "cumulative_cases": 202641,
+      "cumulative_deaths": 8226,
+      "cumulative_recovered": 172047,
+      "date_active": "02-01-2021",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 29910,
+      "active_cases_change": 7542,
+      "cumulative_cases": 210304,
+      "cumulative_deaths": 8347,
+      "cumulative_recovered": 172047,
+      "date_active": "03-01-2021",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 23266,
+      "active_cases_change": -6644,
+      "cumulative_cases": 212850,
+      "cumulative_deaths": 8379,
+      "cumulative_recovered": 181205,
+      "date_active": "04-01-2021",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 25315,
+      "active_cases_change": 2049,
+      "cumulative_cases": 215358,
+      "cumulative_deaths": 8441,
+      "cumulative_recovered": 181602,
+      "date_active": "05-01-2021",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 24607,
+      "active_cases_change": -708,
+      "cumulative_cases": 217999,
+      "cumulative_deaths": 8488,
+      "cumulative_recovered": 184904,
+      "date_active": "06-01-2021",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 24960,
+      "active_cases_change": 353,
+      "cumulative_cases": 220518,
+      "cumulative_deaths": 8562,
+      "cumulative_recovered": 186996,
+      "date_active": "07-01-2021",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 24563,
+      "active_cases_change": -397,
+      "cumulative_cases": 223106,
+      "cumulative_deaths": 8606,
+      "cumulative_recovered": 189937,
+      "date_active": "08-01-2021",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 24607,
+      "active_cases_change": 44,
+      "cumulative_cases": 226233,
+      "cumulative_deaths": 8647,
+      "cumulative_recovered": 192979,
+      "date_active": "09-01-2021",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 24472,
+      "active_cases_change": -135,
+      "cumulative_cases": 228821,
+      "cumulative_deaths": 8686,
+      "cumulative_recovered": 195663,
+      "date_active": "10-01-2021",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 24015,
+      "active_cases_change": -457,
+      "cumulative_cases": 230690,
+      "cumulative_deaths": 8737,
+      "cumulative_recovered": 197938,
+      "date_active": "11-01-2021",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 23922,
+      "active_cases_change": -93,
+      "cumulative_cases": 232624,
+      "cumulative_deaths": 8782,
+      "cumulative_recovered": 199920,
+      "date_active": "12-01-2021",
+      "province": "Quebec"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "16-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "17-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "18-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "19-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "20-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "21-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "22-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "23-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "24-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "25-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "26-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "27-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "28-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "29-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "30-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "31-12-2020",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "01-01-2021",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "02-01-2021",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "03-01-2021",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "04-01-2021",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "05-01-2021",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "06-01-2021",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "07-01-2021",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "08-01-2021",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "09-01-2021",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "10-01-2021",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "11-01-2021",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 13,
+      "cumulative_deaths": 0,
+      "cumulative_recovered": 13,
+      "date_active": "12-01-2021",
+      "province": "Repatriated"
+    },
+    {
+      "active_cases": 4214,
+      "active_cases_change": 17,
+      "cumulative_cases": 12595,
+      "cumulative_deaths": 98,
+      "cumulative_recovered": 8283,
+      "date_active": "16-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3980,
+      "active_cases_change": -234,
+      "cumulative_cases": 12834,
+      "cumulative_deaths": 105,
+      "cumulative_recovered": 8749,
+      "date_active": "17-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3739,
+      "active_cases_change": -241,
+      "cumulative_cases": 13080,
+      "cumulative_deaths": 107,
+      "cumulative_recovered": 9234,
+      "date_active": "18-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3765,
+      "active_cases_change": 26,
+      "cumulative_cases": 13332,
+      "cumulative_deaths": 115,
+      "cumulative_recovered": 9452,
+      "date_active": "19-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3883,
+      "active_cases_change": 118,
+      "cumulative_cases": 13558,
+      "cumulative_deaths": 118,
+      "cumulative_recovered": 9557,
+      "date_active": "20-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3993,
+      "active_cases_change": 110,
+      "cumulative_cases": 13764,
+      "cumulative_deaths": 122,
+      "cumulative_recovered": 9649,
+      "date_active": "21-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3948,
+      "active_cases_change": -45,
+      "cumulative_cases": 13945,
+      "cumulative_deaths": 125,
+      "cumulative_recovered": 9872,
+      "date_active": "22-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3854,
+      "active_cases_change": -94,
+      "cumulative_cases": 14105,
+      "cumulative_deaths": 130,
+      "cumulative_recovered": 10121,
+      "date_active": "23-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3351,
+      "active_cases_change": -503,
+      "cumulative_cases": 14260,
+      "cumulative_deaths": 134,
+      "cumulative_recovered": 10775,
+      "date_active": "24-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3351,
+      "active_cases_change": 0,
+      "cumulative_cases": 14260,
+      "cumulative_deaths": 134,
+      "cumulative_recovered": 10775,
+      "date_active": "25-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3353,
+      "active_cases_change": 2,
+      "cumulative_cases": 14262,
+      "cumulative_deaths": 134,
+      "cumulative_recovered": 10775,
+      "date_active": "26-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3400,
+      "active_cases_change": 47,
+      "cumulative_cases": 14816,
+      "cumulative_deaths": 141,
+      "cumulative_recovered": 11275,
+      "date_active": "27-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3401,
+      "active_cases_change": 1,
+      "cumulative_cases": 14817,
+      "cumulative_deaths": 141,
+      "cumulative_recovered": 11275,
+      "date_active": "28-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3192,
+      "active_cases_change": -209,
+      "cumulative_cases": 15023,
+      "cumulative_deaths": 151,
+      "cumulative_recovered": 11680,
+      "date_active": "29-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 2959,
+      "active_cases_change": -233,
+      "cumulative_cases": 15170,
+      "cumulative_deaths": 154,
+      "cumulative_recovered": 12057,
+      "date_active": "30-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 2711,
+      "active_cases_change": -248,
+      "cumulative_cases": 15362,
+      "cumulative_deaths": 155,
+      "cumulative_recovered": 12496,
+      "date_active": "31-12-2020",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 2712,
+      "active_cases_change": 1,
+      "cumulative_cases": 15363,
+      "cumulative_deaths": 155,
+      "cumulative_recovered": 12496,
+      "date_active": "01-01-2021",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 2715,
+      "active_cases_change": 3,
+      "cumulative_cases": 15848,
+      "cumulative_deaths": 158,
+      "cumulative_recovered": 12975,
+      "date_active": "02-01-2021",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 2844,
+      "active_cases_change": 129,
+      "cumulative_cases": 16086,
+      "cumulative_deaths": 158,
+      "cumulative_recovered": 13084,
+      "date_active": "03-01-2021",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3032,
+      "active_cases_change": 188,
+      "cumulative_cases": 16372,
+      "cumulative_deaths": 160,
+      "cumulative_recovered": 13180,
+      "date_active": "04-01-2021",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3062,
+      "active_cases_change": 30,
+      "cumulative_cases": 16525,
+      "cumulative_deaths": 165,
+      "cumulative_recovered": 13298,
+      "date_active": "05-01-2021",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 2891,
+      "active_cases_change": -171,
+      "cumulative_cases": 16802,
+      "cumulative_deaths": 174,
+      "cumulative_recovered": 13737,
+      "date_active": "06-01-2021",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 2944,
+      "active_cases_change": 53,
+      "cumulative_cases": 17135,
+      "cumulative_deaths": 177,
+      "cumulative_recovered": 14014,
+      "date_active": "07-01-2021",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3050,
+      "active_cases_change": 106,
+      "cumulative_cases": 17471,
+      "cumulative_deaths": 184,
+      "cumulative_recovered": 14237,
+      "date_active": "08-01-2021",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3186,
+      "active_cases_change": 136,
+      "cumulative_cases": 17803,
+      "cumulative_deaths": 191,
+      "cumulative_recovered": 14426,
+      "date_active": "09-01-2021",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3186,
+      "active_cases_change": 0,
+      "cumulative_cases": 17803,
+      "cumulative_deaths": 191,
+      "cumulative_recovered": 14426,
+      "date_active": "10-01-2021",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3735,
+      "active_cases_change": 549,
+      "cumulative_cases": 18522,
+      "cumulative_deaths": 199,
+      "cumulative_recovered": 14588,
+      "date_active": "11-01-2021",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 3752,
+      "active_cases_change": 17,
+      "cumulative_cases": 18770,
+      "cumulative_deaths": 204,
+      "cumulative_recovered": 14814,
+      "date_active": "12-01-2021",
+      "province": "Saskatchewan"
+    },
+    {
+      "active_cases": 1,
+      "active_cases_change": 0,
+      "cumulative_cases": 59,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 57,
+      "date_active": "16-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 1,
+      "active_cases_change": 0,
+      "cumulative_cases": 59,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 57,
+      "date_active": "17-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 1,
+      "active_cases_change": 0,
+      "cumulative_cases": 59,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 57,
+      "date_active": "18-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 1,
+      "active_cases_change": 0,
+      "cumulative_cases": 59,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 57,
+      "date_active": "19-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 1,
+      "active_cases_change": 0,
+      "cumulative_cases": 59,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 57,
+      "date_active": "20-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 1,
+      "active_cases_change": 0,
+      "cumulative_cases": 59,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 57,
+      "date_active": "21-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": -1,
+      "cumulative_cases": 59,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 58,
+      "date_active": "22-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 59,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 58,
+      "date_active": "23-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 60,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "24-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 60,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "25-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 60,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "26-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 60,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "27-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 60,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "28-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 60,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "29-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 60,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "30-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 0,
+      "active_cases_change": 0,
+      "cumulative_cases": 60,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "31-12-2020",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 4,
+      "active_cases_change": 4,
+      "cumulative_cases": 64,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "01-01-2021",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 4,
+      "active_cases_change": 0,
+      "cumulative_cases": 64,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "02-01-2021",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 4,
+      "active_cases_change": 0,
+      "cumulative_cases": 64,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "03-01-2021",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 5,
+      "active_cases_change": 1,
+      "cumulative_cases": 65,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "04-01-2021",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 5,
+      "active_cases_change": 0,
+      "cumulative_cases": 65,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "05-01-2021",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 6,
+      "active_cases_change": 1,
+      "cumulative_cases": 66,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "06-01-2021",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 9,
+      "active_cases_change": 3,
+      "cumulative_cases": 69,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "07-01-2021",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 10,
+      "active_cases_change": 1,
+      "cumulative_cases": 70,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "08-01-2021",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 10,
+      "active_cases_change": 0,
+      "cumulative_cases": 70,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "09-01-2021",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 10,
+      "active_cases_change": 0,
+      "cumulative_cases": 70,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 59,
+      "date_active": "10-01-2021",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 6,
+      "active_cases_change": -4,
+      "cumulative_cases": 70,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 63,
+      "date_active": "11-01-2021",
+      "province": "Yukon"
+    },
+    {
+      "active_cases": 6,
+      "active_cases_change": 0,
+      "cumulative_cases": 70,
+      "cumulative_deaths": 1,
+      "cumulative_recovered": 63,
+      "date_active": "12-01-2021",
+      "province": "Yukon"
+    }
+  ]
+}
