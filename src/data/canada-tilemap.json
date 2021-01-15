@@ -1,13 +1,120 @@
-[{"y":5,"x":1.5,"name":"Yukon","abbr":"Yuk.","code":"YT"},
-{"y":5,"x":2.5,"name":"Northwest Territories Territories","abbr":"N.W.T.","code":"NT"},
-{"y":5,"x":3.5,"name":"Nunavut","abbr":"Nun.","code":"NU"},
-{"y":4,"x":1,"name":"British Columbia","abbr":"B.C.","code":"BC"},
-{"y":4,"x":2,"name":"Alberta","abbr":"Alta.","code":"AB"},
-{"y":4,"x":3,"name":"Saskatchewan","abbr":"Sask.","code":"SK"},
-{"y":4,"x":4,"name":"Manitoba","abbr":"Man.","code":"MB"},
-{"y":3.5,"x":5,"name":"Ontario","abbr":"Ont.","code":"ON"},
-{"y":3.5,"x":6,"name":"Quebec","abbr":"Que.","code":"QC"},
-{"y":4,"x":7,"name":"Newfoundland and Labrador","abbr":"N.L.","code":"NL"},
-{"y":2.5,"x":6,"name":"New Brunswick","abbr":"N.B.","code":"NB"},
-{"y":3,"x":7,"name":"Prince Edward Island","abbr":"P.E.I.","code":"PE"},
-{"y":2,"x":7,"name":"Nova Scotia","abbr":"N.S.","code":"NS"}]
+[
+  {
+    "y": 5,
+    "x": 1.5,
+    "name": "Yukon",
+    "abbr": "Yuk.",
+    "code": "YT",
+    "c19cwg_name": "Yukon",
+	"population": 41078
+  },
+  {
+    "y": 5,
+    "x": 2.5,
+    "name": "Northwest Territories",
+    "abbr": "N.W.T.",
+    "code": "NT",
+    "c19cwg_name": "NWT",
+	"population": 44904
+  },
+  {
+    "y": 5,
+    "x": 3.5,
+    "name": "Nunavut",
+    "abbr": "Nun.",
+    "code": "NU",
+    "c19cwg_name": "Nunavut",
+	"population": 39097
+  },
+  {
+    "y": 4,
+    "x": 1,
+    "name": "British Columbia",
+    "abbr": "B.C.",
+    "code": "BC",
+    "c19cwg_name": "British Columbia",
+	"population": 5110917
+  },
+  {
+    "y": 4,
+    "x": 2,
+    "name": "Alberta",
+    "abbr": "Alta.",
+    "code": "AB",
+    "c19cwg_name": "Alberta",
+    "population": 4413146
+  },
+  {
+    "y": 4,
+    "x": 3,
+    "name": "Saskatchewan",
+    "abbr": "Sask.",
+    "code": "SK",
+    "c19cwg_name": "Saskatchewan",
+	"population": 1181666
+  },
+  {
+    "y": 4,
+    "x": 4,
+    "name": "Manitoba",
+    "abbr": "Man.",
+    "code": "MB",
+    "c19cwg_name": "Manitoba",
+	"population": 1377517
+  },
+  {
+    "y": 3.5,
+    "x": 5,
+    "name": "Ontario",
+    "abbr": "Ont.",
+    "code": "ON",
+    "c19cwg_name": "Ontario",
+    "population": 14711827
+
+  },
+  {
+    "y": 3.5,
+    "x": 6,
+    "name": "Quebec",
+    "abbr": "Que.",
+    "code": "QC",
+    "c19cwg_name": "Quebec",
+	"population": 8537674
+  },
+  {
+    "y": 4,
+    "x": 7,
+    "name": "Newfoundland and Labrador",
+    "abbr": "Nfld.",
+    "code": "NL",
+    "c19cwg_name": "NL",
+	"population": 521365
+  },
+  {
+    "y": 2.5,
+    "x": 6,
+    "name": "New Brunswick",
+    "abbr": "N.B.",
+    "code": "NB",
+    "c19cwg_name": "New Brunswick",
+	"population": 779993
+  },
+  {
+    "y": 3,
+    "x": 7,
+    "name": "Prince Edward Island",
+    "abbr": "P.E.I.",
+    "code": "PE",
+    "c19cwg_name": "PEI",
+	"population": 158158
+  },
+  {
+    "y": 2,
+    "x": 7,
+    "name": "Nova Scotia",
+    "abbr": "N.S.",
+    "code": "NS",
+    "c19cwg_name": "Nova Scotia",
+	"population": 977457
+  }
+]

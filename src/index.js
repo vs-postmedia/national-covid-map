@@ -15,8 +15,8 @@ import helper from './js/helper-functions';
 import resp from './data/active.json';
 
 // VARS
-const variable = 'active_cases';
-const legendTitle = 'Active cases';
+const variable = 'latest_active_100k';
+const legendTitle = 'Active cases per 100,000';
 // DATA
 const dataUrl = 'https://vs-postmedia-data.sfo2.digitaloceanspaces.com/covid/covid-vaccination-counts.csv';
 
@@ -26,53 +26,49 @@ const init = async () => {
 	const provCode = helper.getUrlParam('prov');
 	const format = helper.getUrlParam('format');
 
-	//  data
-	// console.log(resp)
-	const byProv = d3.nest()
-		.key(d => d.province)
-		.entries(resp.active)
-		.filter(d => d.key !== 'Repatriated')
-
-	console.log(byProv)
-	const forTilemap = byProv.map(d => {
-		return d.values[d.values.length - 1];
-	})
-
-	console.log(forTilemap)
-
-
 	// const vax = await d3.csv(vaxDataUrl);
-	const data = await joinData(forTilemap, provinces);
-	// const data = parseNumbers(joinedData);
 
-	console.log(data)
+	// group data by province
+	const nested = d3.nest()
+		.key(d => d.name)
+		.entries(resp)
+		.map(d => {
+			const latest = d.values[d.values.length - 1];
+			return {
+				name: d.key,
+				code: d.values[0].code,
+				short_name: d.values[0].short_name,
+				active_100k: d.values.map(d => d.active_100k),
+				deaths_100k: d.values.map(d => d.deaths_100k),
+				latest_active_100k: latest.active_100k,
+				latest_active: latest.active_cases,
+				latest_cases: latest.cumulative_cases,
+				latest_deaths: latest.cumulative_deaths
+			}
+		});
+	
+	console.log(nested)
+
+	const data = await joinData(nested, provinces);
+
 
 	// build map
-	tilemap.init('#map', data, variable, legendTitle);
+	tilemap.init('#map', data, nested, variable, legendTitle);
+
+	console.log("eli is not stinky btw")
 };
 
 
 function joinData(data, shapes) {
 	// join by prov code
 	return shapes.map(s => {
-		const dataProps = data.filter(d => d.province === s.name)[0];
+		const dataProps = data.filter(d => d.name === s.name)[0];
 		// delete dataProps.prov_code; // duplicate
 		
 		const joined = Object.assign({}, s, dataProps);
 
 		return joined;
 	});
-}
-
-
-function parseNumbers(data) {
-	data.forEach(d => {
-		d['doses_rx'] = +d['doses_rx'],
-		d['doses_admin'] = +d['doses_admin'],
-		d['doses_per100k'] = +d['doses_per100k']
-	});
-
-	return data;
 }
 
 

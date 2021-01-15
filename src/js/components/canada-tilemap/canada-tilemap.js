@@ -1,5 +1,6 @@
 import * as d3 from 'd3';
 import Popup from '@flourish/popup';
+import Sparkline from '../../sparkline';
 import TooltipTemplate from '../TooltipTemplate/tooltip-template';
 
 // CSS
@@ -8,24 +9,24 @@ import './canada-tilemap.css';
 const coloursArray = ['#D4DAEA','#AFBEDB','#829DC7', '#6D8EBF','#3C76B0','#0062A3'];
 
 let popup = Popup();
+const TILE_HEADER = 15;
 const mobileBreakpoint = 500;
 const marginMobile = {top: 50, right: 30, bottom: 25, left: 25};
 const marginWeb = {top: 50, right: 50, bottom: 50, left: 50};
-let windowWidth, shapeMultiplier, x, y, displayVariable;
+let elWidth, shapeMultiplier, x, y, displayVariable;
 
 
-const init = async(el, data, metric, legendTitle) => {
+const init = async(el, data, timeseriesData, metric, legendTitle) => {
 	displayVariable = metric;
 	const label = 'abbr'; // OR 'code'
 	const square = d3.symbol().type(d3.symbolSquare);
 
 	// calculations to jankily adjust map dimensions
-	windowWidth = document.querySelector(el).offsetWidth;
-	shapeMultiplier = windowWidth < mobileBreakpoint ? 5 : 10;
-	const margin = windowWidth < mobileBreakpoint ? marginMobile : marginWeb;
-	const height = windowWidth * 0.4;
-	const width = windowWidth * 0.8;
-
+	elWidth = document.querySelector(el).offsetWidth;
+	shapeMultiplier = elWidth < mobileBreakpoint ? 5 : 12;
+	const margin = elWidth < mobileBreakpoint ? marginMobile : marginWeb;
+	const height = elWidth * 0.45;
+	const width = elWidth * 0.85;
 
 	// scales
 	x = d3.scaleLinear()
@@ -51,6 +52,9 @@ const init = async(el, data, metric, legendTitle) => {
     // add labels
     addLabels(svg, data, label);
 
+    // sparklines
+    addSparklines(svg, data, timeseriesData);
+
     // add colours & a legend
     const scaleMax = d3.max(data, d => d[displayVariable]);
     const colours = assignColours(scaleMax);
@@ -64,12 +68,16 @@ const init = async(el, data, metric, legendTitle) => {
 }
 
 function addLabels(svg, data, label) {
+	const bbox = document.querySelector('.square').getBBox();
+	const size = bbox.width;
+	const margin = 10;
+
 	svg.append('g')
 		.attr('class', 'labels')
 		.selectAll('labels')
 		.data(data)
 		.enter().append('text')
-			.attr('transform', d => `translate(${x(d.x)},${y(d.y)})`)
+			.attr('transform', d => `translate(${x(d.x)},${y(d.y) - (size / 2) + margin})`)
 			.text(d => d[label])
 			.attr('class', 'label')
 }
@@ -95,6 +103,41 @@ function addLegend(svg, legendScale, legendTitle, scaleMax, displayVariable) {
 			.text(scaleMax);
 }
 
+function addSparklines(svg, data, timeseriesData) {
+	let code;
+	const bbox = document.querySelector('.square').getBBox();
+	const size = bbox.width;
+	const margin = 5;
+
+	console.log(bbox)
+
+	const container = svg.append('g')
+		.attr('class', 'sparklines')
+		.selectAll('container')
+		.data(data)
+		.enter().append('g')
+			.attr('id', d => d.code)
+			.attr('class', 'sparkline-container')
+			.attr('transform', d => `translate(${x(d.x) - (size / 2) + margin},${y(d.y) - (size / 2) + margin + TILE_HEADER})`)
+			.attr('height', size - TILE_HEADER)
+			.attr('width', size)
+			.attr('stroke', '#000000');
+
+	// get a list of each province name
+	const provinces = data.map(d => d.name);
+
+	timeseriesData.forEach(d => {
+		// console.log(d)
+		// svg.append('g')
+		// 	.attr('id', d.key)
+		// 	// .attr('class', 'sparkline-container')
+		// 	.selectAll('sparklines');
+
+		Sparkline.init(d.active_100k, d3.select(`.sparklines #${d.code}`), size, margin);
+	})
+	
+}
+
 function assignColours(scaleMax) {
 	// colour scale (postmedia blue)
 	return d3.scaleQuantile()
@@ -106,12 +149,17 @@ function drawShapes(svg, data, square) {
 	// Add the points/shapes
 	svg.append('g')
 		.attr('class', 'shapes')
-		.selectAll('prov')
+		.selectAll('square')
 	    .data(data)
 	    .enter().append('path')
 	    	.attr('id', d => d.code)
-	    	.attr('class', 'prov')
-	    	.attr('d', square.size(windowWidth * shapeMultiplier))
+	    	.attr('class', 'square')
+	    	// .attr('d', square.size(elWidth * shapeMultiplier))
+	    	.attr('d', square.size(d => {
+	    		console.log(elWidth / 8, Math.floor(elWidth / 8))
+	    		console.log(elWidth * Math.sqrt(Math.floor(elWidth / 8)))
+	    		return Math.floor(elWidth * Math.sqrt(elWidth / 8))
+	    	}))
 	    	.attr('transform', d => `translate(${x(d.x)},${y(d.y)})`)
 	    	.on('mouseover', handleMouseenter)
 	    	.on('mouseout', handleMouseout)
