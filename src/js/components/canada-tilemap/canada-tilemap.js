@@ -104,12 +104,9 @@ function addLegend(svg, legendScale, legendTitle, scaleMax, displayVariable) {
 }
 
 function addSparklines(svg, data, timeseriesData) {
-	let code;
 	const bbox = document.querySelector('.square').getBBox();
 	const size = bbox.width;
 	const margin = 5;
-
-	console.log(bbox)
 
 	const container = svg.append('g')
 		.attr('class', 'sparklines')
@@ -123,16 +120,8 @@ function addSparklines(svg, data, timeseriesData) {
 			.attr('width', size)
 			.attr('stroke', '#000000');
 
-	// get a list of each province name
-	const provinces = data.map(d => d.name);
-
+	// draw the sparklines
 	timeseriesData.forEach(d => {
-		// console.log(d)
-		// svg.append('g')
-		// 	.attr('id', d.key)
-		// 	// .attr('class', 'sparkline-container')
-		// 	.selectAll('sparklines');
-
 		Sparkline.init(d.active_100k, d3.select(`.sparklines #${d.code}`), size, margin);
 	})
 	
@@ -154,12 +143,7 @@ function drawShapes(svg, data, square) {
 	    .enter().append('path')
 	    	.attr('id', d => d.code)
 	    	.attr('class', 'square')
-	    	// .attr('d', square.size(elWidth * shapeMultiplier))
-	    	.attr('d', square.size(d => {
-	    		console.log(elWidth / 8, Math.floor(elWidth / 8))
-	    		console.log(elWidth * Math.sqrt(Math.floor(elWidth / 8)))
-	    		return Math.floor(elWidth * Math.sqrt(elWidth / 8))
-	    	}))
+	    	.attr('d', square.size(d => Math.floor(elWidth * Math.sqrt(elWidth / 8))))
 	    	.attr('transform', d => `translate(${x(d.x)},${y(d.y)})`)
 	    	.on('mouseover', handleMouseenter)
 	    	.on('mouseout', handleMouseout)
