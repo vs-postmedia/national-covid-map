@@ -41,6 +41,7 @@
 }
 #map .legend-value-right {
 	float: right;
+	margin-right: -15px;
 }
 
 @media only screen and (min-width: 500px) {
