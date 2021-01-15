@@ -1,12 +1,20 @@
 import helper from '../../helper-functions';
 import './header.css';
 
-// import template from 'header-template';
-const init = async (data, provCode) => {
-	const prov = data.filter(d => d.code === provCode)[0];
+const init = (data) => {
+	const endDay = data.date_end.split('-')[0];
+	const endMonth = helper.months[parseInt(data.date_end.split('-')[1]) - 1];
+	const startDay = data.date_start.split('-')[0];
+	const startMonth = helper.months[parseInt(data.date_start.split('-')[1]) - 1];
+	const startYear = data.date_start.split('-')[2];
+
+	const startDate = startYear === '2020' ? `${startMonth} ${startDay}, 2020` : `${startMonth} ${startDay}`;
+	const endDate = startYear === '2020' ? `${endMonth} ${endDay}, 2021` : `${startMonth} ${startDay}`;
+
 
 	return `
-		<h1>${prov.name} has administered <span class="highlight">${helper.numberWithCommas(parseInt(prov.doses_admin))} doses</span> of COVID-19 vaccines so far – roughly <span class="highlight">${prov.pct_admin}%</span> of the supply received from the federal government.</h1>
+		<h2>Active cases of COVID-19 between ${startDate} and ${endDate}</h2>
+		<p>Red dots show where active cases have risen over the past month. Blue show where they have fallen.</p>
 	`;
 }
 

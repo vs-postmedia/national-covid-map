@@ -22,11 +22,10 @@ const dataUrl = 'https://vs-postmedia-data.sfo2.digitaloceanspaces.com/covid/cov
 
 
 const init = async () => {
-	const header = document.querySelector('#header');
 	const provCode = helper.getUrlParam('prov');
 	const format = helper.getUrlParam('format');
 
-	// const vax = await d3.csv(vaxDataUrl);
+	// const resp = await d3.csv(vaxDataUrl);
 
 	// group data by province
 	const nested = d3.nest()
@@ -43,14 +42,20 @@ const init = async () => {
 				latest_active_100k: latest.active_100k,
 				latest_active: latest.active_cases,
 				latest_cases: latest.cumulative_cases,
-				latest_deaths: latest.cumulative_deaths
+				latest_deaths: latest.cumulative_deaths,
+				date_start: d.values[0].date_active,
+				date_end: latest.date_active
 			}
 		});
 	
-	console.log(nested)
-
 	const data = await joinData(nested, provinces);
 
+	console.log(data);
+
+	// build header
+	const header = document.querySelector('#header');
+	const headerCopy = head.init(data[0]);
+	header.innerHTML = headerCopy;
 
 	// build map
 	tilemap.init('#map', data, nested, variable, legendTitle);

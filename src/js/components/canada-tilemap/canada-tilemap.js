@@ -13,7 +13,7 @@ const TILE_HEADER = 15;
 const mobileBreakpoint = 500;
 const marginMobile = {top: 50, right: 30, bottom: 25, left: 25};
 const marginWeb = {top: 50, right: 50, bottom: 50, left: 50};
-let elWidth, shapeMultiplier, x, y, displayVariable;
+let elWidth, x, y, displayVariable;
 
 
 const init = async(el, data, timeseriesData, metric, legendTitle) => {
@@ -23,7 +23,6 @@ const init = async(el, data, timeseriesData, metric, legendTitle) => {
 
 	// calculations to jankily adjust map dimensions
 	elWidth = document.querySelector(el).offsetWidth;
-	shapeMultiplier = elWidth < mobileBreakpoint ? 5 : 12;
 	const margin = elWidth < mobileBreakpoint ? marginMobile : marginWeb;
 	const height = elWidth * 0.45;
 	const width = elWidth * 0.85;
@@ -41,7 +40,7 @@ const init = async(el, data, timeseriesData, metric, legendTitle) => {
 	// SVG
 	const svg = d3.select('#map').append('svg')
 		.attr('width', width + margin.left + margin.right)
-		.attr('height', height + margin.top + margin.bottom + 10)
+		.attr('height', height + margin.top + margin.bottom)
 		.append('g')
 		.attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
 
@@ -123,8 +122,7 @@ function addSparklines(svg, data, timeseriesData) {
 	// draw the sparklines
 	timeseriesData.forEach(d => {
 		Sparkline.init(d.active_100k, d3.select(`.sparklines #${d.code}`), size, margin);
-	})
-	
+	});
 }
 
 function assignColours(scaleMax) {

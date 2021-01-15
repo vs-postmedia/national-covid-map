@@ -1,11 +1,13 @@
-#header {
-	margin: 0 auto;
+/*#header {
 	max-width: 600px;
-}
+}*/
 #header h1 {
 	font-size: 1.3rem;
 	line-height: 1.25;
-	text-align: center;
+}
+
+#header p {
+	font-family: BentonSansCond-RegItalic;
 }
 
 #header .highlight {

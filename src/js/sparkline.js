@@ -1,3 +1,5 @@
+// https://www.essycode.com/posts/create-sparkline-charts-d3/
+
 import {
 	max			as d3_max,
 	line        as d3_line,
