@@ -12,7 +12,7 @@ let popup = Popup();
 const TILE_HEADER = 15;
 const mobileBreakpoint = 500;
 const marginMobile = {top: 50, right: 30, bottom: 25, left: 25};
-const marginWeb = {top: 50, right: 50, bottom: 50, left: 50};
+const marginWeb = {top: 50, right: 40, bottom: 50, left: 40};
 let elWidth, x, y, displayVariable;
 
 
@@ -32,7 +32,7 @@ const init = async(el, data, timeseriesData, metric, legendTitle) => {
 		.range([0, width]);
 	y = d3.scaleLinear()
 		.range([height, 0]);
-		// Compute the scales’ domains.
+	// Compute domains.
     x.domain(d3.extent(data, d => d.x)).nice();
     y.domain(d3.extent(data, d => d.y)).nice();
 
