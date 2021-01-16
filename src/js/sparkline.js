@@ -10,8 +10,7 @@ import {
 
 
 const init = (data, el, size, tileHeaderHeight) => {
-	// console.log(data)
-	const dataCount = data.length;
+	const dataCount = data.length - 1;
 	const MARGIN = { top: 5, right: 5, bottom: 5 + tileHeaderHeight, left: 5 };
 	const INNER_WIDTH  = size - MARGIN.left - MARGIN.right;
 	const INNER_HEIGHT = size - MARGIN.top - MARGIN.bottom - tileHeaderHeight * 2;
@@ -37,9 +36,9 @@ const init = (data, el, size, tileHeaderHeight) => {
 	
 	el.append('circle')
 	  .attr('r', 4)
-	  .attr('cx', x(dataCount - 1))
-	  .attr('cy', y(data[dataCount - 1]))
-	  .attr('fill', data[0] < data[dataCount - 1] ? '#E35D42' : 'steelblue')
+	  .attr('cx', x(dataCount))
+	  .attr('cy', y(data[dataCount ]))
+	  .attr('fill', data[0] < data[dataCount] ? '#E35D42' : 'steelblue')
 	  .attr('stroke', '#FFF')
 	  .attr('stroke-width', 0.5);
 }

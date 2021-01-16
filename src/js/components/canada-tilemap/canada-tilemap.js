@@ -54,10 +54,12 @@ const init = async(el, data, timeseriesData, metric, legendTitle) => {
     // sparklines
     addSparklines(svg, data, timeseriesData);
 
+
+
     // add colours & a legend
     const scaleMax = d3.max(data, d => d[displayVariable]);
     const colours = assignColours(scaleMax);
-	addLegend(map, colours, legendTitle, `${Math.floor(scaleMax)}+`, displayVariable);
+	addLegend(map, colours, legendTitle, scaleMax, displayVariable);
 
     // set fill colour for shapes
     data.forEach(function(d) {
@@ -99,7 +101,7 @@ function addLegend(svg, legendScale, legendTitle, scaleMax, displayVariable) {
 
 	legend.append('p')
 			.attr('class', 'legend-value legend-value-right')
-			.text(`${Math.round(parseInt(scaleMax) / 100) * 100}+`);
+			.text(`${Math.round(scaleMax / 100) * 100}+`);
 }
 
 function addSparklines(svg, data, timeseriesData) {

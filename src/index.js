@@ -12,20 +12,21 @@ import provinces from './data/canada-tilemap.json';
 import helper from './js/helper-functions';
 
 
-import resp from './data/active.json';
+// import resp from './data/active.json';
 
 // VARS
 const variable = 'latest_active_100k';
 const legendTitle = 'Active cases per 100,000';
 // DATA
-const dataUrl = 'https://vs-postmedia-data.sfo2.digitaloceanspaces.com/covid/covid-vaccination-counts.csv';
+const dataUrl = 'https://vs-postmedia-data.sfo2.digitaloceanspaces.com/covid/covid-national-map.csv';
 
 
 const init = async () => {
 	const provCode = helper.getUrlParam('prov');
 	const format = helper.getUrlParam('format');
 
-	// const resp = await d3.csv(vaxDataUrl);
+	// fetch data
+	const resp = await d3.csv(dataUrl);
 
 	// group data by province
 	const nested = d3.nest()
@@ -37,12 +38,12 @@ const init = async () => {
 				name: d.key,
 				code: d.values[0].code,
 				short_name: d.values[0].short_name,
-				active_100k: d.values.map(d => d.active_100k),
-				deaths_100k: d.values.map(d => d.deaths_100k),
-				latest_active_100k: latest.active_100k,
-				latest_active: latest.active_cases,
-				latest_cases: latest.cumulative_cases,
-				latest_deaths: latest.cumulative_deaths,
+				active_100k: d.values.map(d => parseFloat(d.active_100k)),
+				deaths_100k: d.values.map(d => parseFloat(d.deaths_100k)),
+				latest_active_100k: parseFloat(latest.active_100k),
+				latest_active: parseFloat(latest.active_cases),
+				latest_cases: parseFloat(latest.cumulative_cases),
+				latest_deaths: parseFloat(latest.cumulative_deaths),
 				date_start: d.values[0].date_active,
 				date_end: latest.date_active
 			}
