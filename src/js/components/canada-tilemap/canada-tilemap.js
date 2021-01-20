@@ -101,7 +101,7 @@ function addLegend(svg, legendScale, legendTitle, scaleMax, displayVariable) {
 
 	legend.append('p')
 			.attr('class', 'legend-value legend-value-right')
-			.text(`${Math.round(scaleMax / 100) * 100}+`);
+			.text(`${Math.floor(scaleMax / 10) * 10}+`);
 }
 
 function addSparklines(svg, data, timeseriesData) {
