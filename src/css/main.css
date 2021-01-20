@@ -9,6 +9,7 @@
 #app {
 	margin: 0 auto;
 	max-width: 700px;
+	padding: 5px;
 }
 
 #app #main-header {
