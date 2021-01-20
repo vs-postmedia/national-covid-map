@@ -14,7 +14,7 @@ const init = (data) => {
 
 	return `
 		<h2>Active cases of COVID-19 in Canada from ${startDate} to ${endDate}</h2>
-		<p>Red dots show where active cases have risen over the past month. Blue show where active cases have fallen. Provinces are coloured according to the previous days count for the number of active cases per 100,000 people.</p>
+		<p>Red dots show where active cases have risen over the past month. Blue show where active cases have fallen. Provinces are coloured according to the previous days count of active cases per 100,000 people.</p>
 	`;
 }
 
