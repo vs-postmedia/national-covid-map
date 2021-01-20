@@ -1,0 +1,57 @@
+#topline-summary {
+    /*margin: 2rem 0;*/
+}
+
+#topline-summary .container {
+	background-color: #EAEBEC;
+    border-radius: 5px;
+    margin: 0.75rem auto;
+    max-width: 275px;
+    padding: 10px;
+    text-align: center;
+}
+
+/*#topline-summary .container:last-of-type {
+	margin-bottom: 2rem;
+}*/
+
+#topline-summary .confirmed-cases > * {
+	color: var(--blue01);
+}
+#topline-summary .vaccines-administered > * {
+	color: var(--green01);
+}
+
+#topline-summary h1 {
+	font-size: 2.5rem;
+	margin: 0rem;
+}
+
+#topline-summary .metric-name {
+	font-size: 0.9rem;
+	margin-top: -6px;
+    margin-bottom: 7px;
+	text-transform: uppercase;
+}
+
+#topline-summary .timestamp {
+	color: #898B8E;
+	flex: 0 1 100%;
+	font-family: BentonSansCond-RegItalic;
+	font-size: 0.9rem;
+	margin-bottom: 2rem;
+	text-align: right;
+}
+
+
+@media only screen and (min-width: 500px) {
+	#topline-summary {
+		display: flex;
+		flex-wrap: wrap;
+	    justify-content: space-evenly;
+	}
+	#topline-summary .container {
+		/*margin-bottom: 2rem;*/
+		min-width: 200px;
+	}
+}

@@ -7,6 +7,7 @@ import './css/main.css';
 // JS
 import * as d3 from 'd3';
 import head from './js/components/header/header';
+import toplineSummary from './js/components/topline-summary/topline-summary';
 import tilemap from './js/components/canada-tilemap/canada-tilemap.js';
 import provinces from './data/canada-tilemap.json';
 import helper from './js/helper-functions';
@@ -19,11 +20,23 @@ const variable = 'latest_active_100k';
 const legendTitle = 'Active cases per 100,000';
 // DATA
 const dataUrl = 'https://vs-postmedia-data.sfo2.digitaloceanspaces.com/covid/covid-national-map.csv';
+const toplineSummaryUrl = 'https://vs-postmedia-data.sfo2.digitaloceanspaces.com/covid/covid-national-summary.csv';
 
 
 const init = async () => {
 	const provCode = helper.getUrlParam('prov');
 	const format = helper.getUrlParam('format');
+	const topline = helper.getUrlParam('summary');
+
+	// topline summary metrics
+	if (topline === 'TRUE') {
+		d3.csv(toplineSummaryUrl)
+			.then(data => {
+				const topline = document.querySelector('#topline-summary');
+				topline.innerHTML = buildSummaryBlocks(data[0]);	
+			});
+	}
+	
 
 	// fetch data
 	const resp = await d3.csv(dataUrl);
@@ -55,8 +68,7 @@ const init = async () => {
 
 	// build header
 	const header = document.querySelector('#header');
-	const headerCopy = head.init(data[0]);
-	header.innerHTML = headerCopy;
+	header.innerHTML = head.init(data[0]);
 
 	// build map
 	tilemap.init('#map', data, nested, variable, legendTitle);
@@ -64,6 +76,23 @@ const init = async () => {
 	console.log("eli is not stinky btw")
 };
 
+function buildSummaryBlocks(data) {
+	let string = '';
+
+	// cases
+	string += toplineSummary.metric('Confirmed cases', +data.cumulative_cases, data.cases);
+
+	// deaths
+	string += toplineSummary.metric('Deaths', +data.cumulative_deaths, data.deaths);
+
+	// vaccinations
+	string += toplineSummary.metric('Vaccines administered', data.cumulative_avaccine, +data.avaccine);
+
+	// timestamp
+	string += toplineSummary.timestamp(data.date);
+	
+	return string;
+}
 
 function joinData(data, shapes) {
 	// join by prov code

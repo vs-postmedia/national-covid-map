@@ -11,6 +11,10 @@
 	max-width: 700px;
 }
 
+#app #main-header {
+	text-align: center;
+}
+
 /* POSTMEDIA STYLES */
 #app h1 {
 	color: var(--black);
