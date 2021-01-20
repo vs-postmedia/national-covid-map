@@ -13,7 +13,7 @@ const metric = (metric, value, latest, date) => {
 
 const timestamp = (dateString) => {
 	const d = dateString.split('-');
-	const month = helper.months[+d[1]];
+	const month = helper.months[+d[1] - 1];
 	return `
 		<p class="timestamp">Last update: ${month} ${d[0]}, ${d[2]}</p>
 	`;
