@@ -1,6 +1,6 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[0],{
 
-/***/ 103:
+/***/ 102:
 /***/ (function(module) {
 
 module.exports = JSON.parse("[{\"y\":5,\"x\":1.5,\"name\":\"Yukon\",\"abbr\":\"Yuk.\",\"code\":\"YT\",\"c19cwg_name\":\"Yukon\",\"population\":41078},{\"y\":5,\"x\":2.5,\"name\":\"Northwest Territories\",\"abbr\":\"N.W.T.\",\"code\":\"NT\",\"c19cwg_name\":\"NWT\",\"population\":44904},{\"y\":5,\"x\":3.5,\"name\":\"Nunavut\",\"abbr\":\"Nun.\",\"code\":\"NU\",\"c19cwg_name\":\"Nunavut\",\"population\":39097},{\"y\":4,\"x\":1,\"name\":\"British Columbia\",\"abbr\":\"B.C.\",\"code\":\"BC\",\"c19cwg_name\":\"British Columbia\",\"population\":5110917},{\"y\":4,\"x\":2,\"name\":\"Alberta\",\"abbr\":\"Alta.\",\"code\":\"AB\",\"c19cwg_name\":\"Alberta\",\"population\":4413146},{\"y\":4,\"x\":3,\"name\":\"Saskatchewan\",\"abbr\":\"Sask.\",\"code\":\"SK\",\"c19cwg_name\":\"Saskatchewan\",\"population\":1181666},{\"y\":4,\"x\":4,\"name\":\"Manitoba\",\"abbr\":\"Man.\",\"code\":\"MB\",\"c19cwg_name\":\"Manitoba\",\"population\":1377517},{\"y\":3.5,\"x\":5,\"name\":\"Ontario\",\"abbr\":\"Ont.\",\"code\":\"ON\",\"c19cwg_name\":\"Ontario\",\"population\":14711827},{\"y\":3.5,\"x\":6,\"name\":\"Quebec\",\"abbr\":\"Que.\",\"code\":\"QC\",\"c19cwg_name\":\"Quebec\",\"population\":8537674},{\"y\":4,\"x\":7,\"name\":\"Newfoundland and Labrador\",\"abbr\":\"Nfld.\",\"code\":\"NL\",\"c19cwg_name\":\"NL\",\"population\":521365},{\"y\":2.5,\"x\":6,\"name\":\"New Brunswick\",\"abbr\":\"N.B.\",\"code\":\"NB\",\"c19cwg_name\":\"New Brunswick\",\"population\":779993},{\"y\":3,\"x\":7,\"name\":\"Prince Edward Island\",\"abbr\":\"P.E.I.\",\"code\":\"PE\",\"c19cwg_name\":\"PEI\",\"population\":158158},{\"y\":2,\"x\":7,\"name\":\"Nova Scotia\",\"abbr\":\"N.S.\",\"code\":\"NS\",\"c19cwg_name\":\"Nova Scotia\",\"population\":977457}]");
@@ -71,35 +71,35 @@ module.exports = JSON.parse("[{\"y\":5,\"x\":1.5,\"name\":\"Yukon\",\"abbr\":\"Y
 __webpack_require__.r(__webpack_exports__);
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.filter.js
-var es_array_filter = __webpack_require__(141);
+var es_array_filter = __webpack_require__(140);
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.iterator.js
 var es_array_iterator = __webpack_require__(31);
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.map.js
-var es_array_map = __webpack_require__(156);
+var es_array_map = __webpack_require__(155);
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.function.name.js
-var es_function_name = __webpack_require__(88);
+var es_function_name = __webpack_require__(156);
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.object.assign.js
 var es_object_assign = __webpack_require__(157);
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.object.to-string.js
-var es_object_to_string = __webpack_require__(90);
+var es_object_to_string = __webpack_require__(89);
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/web.dom-collections.iterator.js
-var web_dom_collections_iterator = __webpack_require__(91);
+var web_dom_collections_iterator = __webpack_require__(90);
 
 // EXTERNAL MODULE: ./node_modules/@babel/runtime/regenerator/index.js
 var regenerator = __webpack_require__(16);
 var regenerator_default = /*#__PURE__*/__webpack_require__.n(regenerator);
 
 // EXTERNAL MODULE: ./node_modules/regenerator-runtime/runtime.js
-var runtime = __webpack_require__(55);
+var runtime = __webpack_require__(54);
 
 // EXTERNAL MODULE: ./node_modules/@babel/runtime/helpers/asyncToGenerator.js
-var asyncToGenerator = __webpack_require__(36);
+var asyncToGenerator = __webpack_require__(35);
 var asyncToGenerator_default = /*#__PURE__*/__webpack_require__.n(asyncToGenerator);
 
 // EXTERNAL MODULE: ./src/css/normalize.css
@@ -118,13 +118,13 @@ var main = __webpack_require__(162);
 var d3 = __webpack_require__(0);
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.concat.js
-var es_array_concat = __webpack_require__(33);
+var es_array_concat = __webpack_require__(55);
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.regexp.exec.js
-var es_regexp_exec = __webpack_require__(34);
+var es_regexp_exec = __webpack_require__(33);
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.string.split.js
-var es_string_split = __webpack_require__(95);
+var es_string_split = __webpack_require__(94);
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.includes.js
 var es_array_includes = __webpack_require__(165);
@@ -136,10 +136,10 @@ var es_regexp_to_string = __webpack_require__(166);
 var es_string_includes = __webpack_require__(167);
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.string.iterator.js
-var es_string_iterator = __webpack_require__(98);
+var es_string_iterator = __webpack_require__(97);
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.string.replace.js
-var es_string_replace = __webpack_require__(99);
+var es_string_replace = __webpack_require__(98);
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.string.search.js
 var es_string_search = __webpack_require__(170);
@@ -240,7 +240,7 @@ var es_array_for_each = __webpack_require__(182);
 var web_dom_collections_for_each = __webpack_require__(184);
 
 // EXTERNAL MODULE: ./node_modules/@flourish/popup/src/index.js + 5 modules
-var src = __webpack_require__(104);
+var src = __webpack_require__(103);
 
 // CONCATENATED MODULE: ./src/js/sparkline.js
 // https://www.essycode.com/posts/create-sparkline-charts-d3/
@@ -278,18 +278,22 @@ var tooltip_template = __webpack_require__(185);
 
 
 
-
-
 function tooltip(data) {
-  var death_graf;
+  let death_graf;
 
   if (data.latest_deaths > 0) {
-    death_graf = "<p>At least <span class=\"black\">".concat(helper_functions.numberWithCommas(data.latest_deaths), " people have died</span> in ").concat(data.name, " from the virus.</p>");
+    death_graf = `<p>At least <span class="black">${helper_functions.numberWithCommas(data.latest_deaths)} people have died</span> in ${data.name} from the virus.</p>`;
   } else {
-    death_graf = "<p>There haven\u2019t been any death reported from the virus</span> in ".concat(data.name, ".</p>");
+    death_graf = `<p>There haven’t been any deaths reported from the virus</span> in ${data.name}.</p>`;
   }
 
-  var template = "\n\t\t<div class=\"tooltip-content\">\n\t\t\t<h4>".concat(data.name, "</h4>\n\t\t\t<p>There are currently <span class=\"blue\">").concat(helper_functions.numberWithCommas(data.latest_active), " active cases</span> in ").concat(data.name, " \u2013 roughly ").concat(data.latest_active_100k, " cases per 100,000 people.</p>\n\t\t\t").concat(death_graf, "\n\t\t</div>\n\t");
+  const template = `
+		<div class="tooltip-content">
+			<h4>${data.name}</h4>
+			<p>There are currently <span class="blue">${helper_functions.numberWithCommas(data.latest_active)} active cases</span> in ${data.name} – roughly ${data.latest_active_100k} cases per 100,000 people.</p>
+			${death_graf}
+		</div>
+	`;
   return template;
 }
 
@@ -449,7 +453,7 @@ function handleMouseout(d) {
   init: canada_tilemap_init
 });
 // EXTERNAL MODULE: ./src/data/canada-tilemap.json
-var data_canada_tilemap = __webpack_require__(103);
+var data_canada_tilemap = __webpack_require__(102);
 
 // CONCATENATED MODULE: ./src/index.js
 
