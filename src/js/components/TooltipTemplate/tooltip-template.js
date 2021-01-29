@@ -8,7 +8,7 @@ function tooltip(data) {
 	if (data.latest_deaths > 0) {
 		death_graf = `<p>At least <span class="black">${helper.numberWithCommas(data.latest_deaths)} people have died</span> in ${data.name} from the virus.</p>`
 	} else {
-		death_graf = `<p>There haven’t been any death reported from the virus</span> in ${data.name}.</p>`
+		death_graf = `<p>There haven’t been any deaths reported from the virus</span> in ${data.name}.</p>`
 	}
 
 	const template = `
