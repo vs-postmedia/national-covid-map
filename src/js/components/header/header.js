@@ -9,11 +9,10 @@ const init = (data) => {
 	const startYear = data.date_start.split('-')[2];
 
 	const startDate = startYear === '2020' ? `${startMonth} ${startDay}, 2020` : `${startMonth} ${startDay}`;
-	const endDate = startYear === '2020' ? `${endMonth} ${endDay}, 2021` : `${startMonth} ${startDay}`;
-
+	const endDate = startYear === '2020' ? `${endMonth} ${endDay}, 2021` : `${endMonth} ${endDay}`;
 
 	return `
-		<h2>Active cases of COVID-19 in Canada from ${startDate} to ${endDate}</h2>
+		<h2>Active cases of COVID-19 from ${startDate} to ${endDate}</h2>
 		<p>Red dots show where active cases have risen over the past month. Blue show where active cases have fallen. Provinces are coloured according to the previous days count of active cases per 100,000 people.</p>
 	`;
 }
