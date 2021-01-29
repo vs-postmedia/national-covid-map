@@ -201,8 +201,8 @@ var header_init = function init(data) {
   var startMonth = helper_functions.months[parseInt(data.date_start.split('-')[1]) - 1];
   var startYear = data.date_start.split('-')[2];
   var startDate = startYear === '2020' ? "".concat(startMonth, " ").concat(startDay, ", 2020") : "".concat(startMonth, " ").concat(startDay);
-  var endDate = startYear === '2020' ? "".concat(endMonth, " ").concat(endDay, ", 2021") : "".concat(startMonth, " ").concat(startDay);
-  return "\n\t\t<h2>Active cases of COVID-19 in Canada from ".concat(startDate, " to ").concat(endDate, "</h2>\n\t\t<p>Red dots show where active cases have risen over the past month. Blue show where active cases have fallen. Provinces are coloured according to the previous days count of active cases per 100,000 people.</p>\n\t");
+  var endDate = startYear === '2020' ? "".concat(endMonth, " ").concat(endDay, ", 2021") : "".concat(endMonth, " ").concat(endDay);
+  return "\n\t\t<h2>Active cases of COVID-19 from ".concat(startDate, " to ").concat(endDate, "</h2>\n\t\t<p>Red dots show where active cases have risen over the past month. Blue show where active cases have fallen. Provinces are coloured according to the previous days count of active cases per 100,000 people.</p>\n\t");
 };
 
 /* harmony default export */ var components_header_header = ({
@@ -281,7 +281,15 @@ var tooltip_template = __webpack_require__(185);
 
 
 function tooltip(data) {
-  var template = "\n\t\t<div class=\"tooltip-content\">\n\t\t\t<h4>".concat(data.name, "</h4>\n\t\t\t<p>There are currently <span class=\"blue\">").concat(helper_functions.numberWithCommas(data.latest_active), " active cases</span> in ").concat(data.name, " \u2013 roughly ").concat(data.latest_active_100k, " cases per 100,000 people.</p>\n\t\t\t<p>At least <span class=\"black\">").concat(helper_functions.numberWithCommas(data.latest_deaths), " people have died</span> from the virus.</p>\n\t\t</div>\n\t");
+  var death_graf;
+
+  if (data.latest_deaths > 0) {
+    death_graf = "<p>At least <span class=\"black\">".concat(helper_functions.numberWithCommas(data.latest_deaths), " people have died</span> in ").concat(data.name, " from the virus.</p>");
+  } else {
+    death_graf = "<p>There haven\u2019t been any death reported from the virus</span> in ".concat(data.name, ".</p>");
+  }
+
+  var template = "\n\t\t<div class=\"tooltip-content\">\n\t\t\t<h4>".concat(data.name, "</h4>\n\t\t\t<p>There are currently <span class=\"blue\">").concat(helper_functions.numberWithCommas(data.latest_active), " active cases</span> in ").concat(data.name, " \u2013 roughly ").concat(data.latest_active_100k, " cases per 100,000 people.</p>\n\t\t\t").concat(death_graf, "\n\t\t</div>\n\t");
   return template;
 }
 
